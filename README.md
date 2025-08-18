@@ -1321,6 +1321,23 @@ Simutrans is a freeware and open-source transportation simulator. Your goal is t
 </p>
 
 
+## Skin Deep
+<!-- Supported Operating Systems -->
+![Static Badge](https://img.shields.io/badge/Windows-2f81f7?style=for-the-badge&logo=windows10&logoColor=white)
+
+<!-- HyperLinks -->
+[Game on Steam](https://store.steampowered.com/app/301280/Skin_Deep/) | [Source Code](https://github.com/blendogames/SkinDeep) | [GNU General Public License v3.0](https://github.com/blendogames/SkinDeep/blob/main/LICENSE) | [Website](https://blendogames.com/skindeep/)
+
+Skin Deep is an immersive first-person shooter. We got sneezing. We got things getting stuck in your feet. Stalk through a vast non-linear starship and sneak, subvert, and sabotage to survive in this stellar sandbox. You're outnumbered, outgunned, and have no shoes. Welcome to Skin Deep!
+
+<!-- Images -->
+<p float="left">
+  <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/301280/ss_2acf47ffdb66a38f25d7084a49a971a1afe6fdc5.1920x1080.jpg?t=1746226385" width="32%" />
+  <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/301280/ss_7dbcd630542e33987d66df10bbd7739169271c30.1920x1080.jpg?t=1746226385" width="32%" />
+  <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/301280/ss_75aae5637edd506f5ff55fca747d5904573491a2.1920x1080.jpg?t=1746226385" width="32%" />
+</p>
+
+
 ## Snake
 <!-- Supported Operating Systems -->
 ![Static Badge](https://img.shields.io/badge/Windows-2f81f7?style=for-the-badge&logo=windows10&logoColor=white)
