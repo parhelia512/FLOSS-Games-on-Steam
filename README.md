@@ -684,6 +684,24 @@ Following in the footsteps of Dwarf Fortress and Gnomoria, this game aims to pro
 </p>
 
 
+## Kandria
+<!-- Supported Operating Systems -->
+![Static Badge](https://img.shields.io/badge/Windows-2f81f7?style=for-the-badge&logo=windows10&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SteamOS%2FLinux-%23272932?style=for-the-badge&logo=steam)
+
+<!-- HyperLinks -->
+[Game on Steam](https://store.steampowered.com/app/1261430/Kandria/) | [Source Code](https://codeberg.org/shirakumo/kandria) | [zlib License](https://codeberg.org/shirakumo/kandria/src/branch/master/LICENSE) | [Website](https://kandria.com/)
+
+Explore a ruined open world of caverns and settlements. Hack and slash your way through missions: patrol, repair, scavenge - choose your quests and dialogue. Or go fishing, forage mushrooms, and race the clock! The old world is gone - the future is up to you.
+
+<!-- Images -->
+<p float="left">
+  <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1261430/ss_94a52d4588dad7664190e8023ad4d58bdf429531.1920x1080.jpg?t=1745404954" width="32%" />
+  <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1261430/ss_5807c067e46c0c83b3f44d3c44f9963cfa5005ec.1920x1080.jpg?t=1745404954" width="32%" />
+  <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1261430/ss_ddec091654bd2161c174e0b55f29104bdd5f8545.1920x1080.jpg?t=1745404954" width="32%" />
+</p>
+
+
 ## KeeperRL
 <!-- Supported Operating Systems -->
 ![Static Badge](https://img.shields.io/badge/Windows-2f81f7?style=for-the-badge&logo=windows10&logoColor=white)
