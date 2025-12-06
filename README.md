@@ -5,6 +5,25 @@ Here is a list of free/libre and open source games that are available on [Steam]
 Most of the time, the games here are totally FLOSS, where every assets, resource files, source code, etc are free and open-source. Some games here need an original resource file to be played (or they are included in the Steam release but not in the floss source code), even if they are on Steam. It means, some games listed here are open source game engine where you have to own a copy of the game to play it because the resources needed to play sometimes aren't open source. This list doesn't include games where the source code is open, but not free/libre.
 
 
+## 99Managers Futsal Edition
+<!-- Supported Operating Systems -->
+![Static Badge](https://img.shields.io/badge/Windows-2f81f7?style=for-the-badge&logo=windows10&logoColor=white)
+![Static Badge](https://img.shields.io/badge/MacOS-f0f0f0?style=for-the-badge&logo=apple&logoColor=black)
+![Static Badge](https://img.shields.io/badge/SteamOS%2FLinux-%23272932?style=for-the-badge&logo=steam)
+
+<!-- HyperLinks -->
+[Game on Steam](https://store.steampowered.com/app/3334770/99Managers_Futsal_Edition/) | [Source Code](https://codeberg.org/dulvui/99managers-futsal-edition) | [GNU AFFERO GENERAL PUBLIC LICENSE](https://codeberg.org/dulvui/99managers-futsal-edition/src/branch/main/LICENSE) | [Website](https://99managers.org/)
+
+An open-source Futsal team-management game. Build a world-class Futsal team, find new talents and a tactic that fits your play style. Become the best Futsal Manager and win all competitions on national and international levels.
+
+<!-- Images -->
+<p float="left">
+  <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3334770/a6a7c5fa742f8c08ba45b6bb1fe299d7288f724a/ss_a6a7c5fa742f8c08ba45b6bb1fe299d7288f724a.1920x1080.jpg?t=1762720056" width="32%" />
+  <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3334770/b0bd3ca4d5c5348cfe7b5923080489ddc80f9c3f/ss_b0bd3ca4d5c5348cfe7b5923080489ddc80f9c3f.1920x1080.jpg?t=1762720056" width="32%" />
+  <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3334770/4b2b45a583a7706afad38cdcf3cef10bc3ab2134/ss_4b2b45a583a7706afad38cdcf3cef10bc3ab2134.1920x1080.jpg?t=1762720056" width="32%" />
+</p>
+
+
 ## Alien Swarm: Reactive Drop
 <!-- Supported Operating Systems -->
 ![Static Badge](https://img.shields.io/badge/Windows-2f81f7?style=for-the-badge&logo=windows10&logoColor=white)
