@@ -1816,6 +1816,25 @@ A truly free and open source multiplayer shooter, no strings attached. Have casu
 </p>
 
 
+## Usurper Reborn
+<!-- Supported Operating Systems -->
+![Static Badge](https://img.shields.io/badge/Windows-2f81f7?style=for-the-badge&logo=windows10&logoColor=white)
+![Static Badge](https://img.shields.io/badge/MacOS-f0f0f0?style=for-the-badge&logo=apple&logoColor=black)
+![Static Badge](https://img.shields.io/badge/SteamOS%2FLinux-%23272932?style=for-the-badge&logo=steam)
+
+<!-- HyperLinks -->
+[Game on Steam](https://store.steampowered.com/app/4336570/Usurper_Reborn/) | [Source Code](https://github.com/binary-knight/usurper-reborn) | [GNU General Public License v2.0](https://github.com/binary-knight/usurper-reborn/blob/main/LICENSE) | [Website](https://usurper-reborn.net/)
+
+Wake with no memory. Descend 100 dungeon floors. Build relationships, start a family, lose companions forever. A text-based RPG remake of the 1993 BBS classic—with a living world and multiple endings shaped by your choices.
+
+<!-- Images -->
+<p float="left">
+  <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336570/3d25fb36f192a862fb6326b58538c32fd531dfab/ss_3d25fb36f192a862fb6326b58538c32fd531dfab.1920x1080.jpg?t=1776578966" width="32%" />
+  <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336570/34fb43dd2f4028c75d7219aa8014c5a007b24202/ss_34fb43dd2f4028c75d7219aa8014c5a007b24202.1920x1080.jpg?t=1776578966" width="32%" />
+  <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336570/4978f838856868709b315705ae81a429745d158b/ss_4978f838856868709b315705ae81a429745d158b.1920x1080.jpg?t=1776578966" width="32%" />
+</p>
+
+
 ## Vulture for NetHack
 <!-- Supported Operating Systems -->
 ![Static Badge](https://img.shields.io/badge/Windows-2f81f7?style=for-the-badge&logo=windows10&logoColor=white)
