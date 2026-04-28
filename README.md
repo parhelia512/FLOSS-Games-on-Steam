@@ -1780,6 +1780,26 @@ Tomatenquark is a multiplayer & singleplayer first person shooter, a community h
 </p>
 
 
+## Towns
+<!-- Supported Operating Systems -->
+![Static Badge](https://img.shields.io/badge/Windows-2f81f7?style=for-the-badge&logo=windows10&logoColor=white)
+![Static Badge](https://img.shields.io/badge/MacOS-f0f0f0?style=for-the-badge&logo=apple&logoColor=black)
+![Static Badge](https://img.shields.io/badge/SteamOS%2FLinux-%23272932?style=for-the-badge&logo=steam)
+
+<!-- HyperLinks -->
+[Game on Steam](https://store.steampowered.com/app/221020/Towns/) | [Source Code](https://github.com/supermalparit/Towns) | [GNU General Public License v3.0](https://github.com/supermalparit/Towns/blob/main/LICENSE)
+
+The game brings a fresh new take on the city building/management genre by introducing many RPG features. In Towns you manage a settlement on top of an active dungeon. Instead of playing the hero who delves deep into the dungeon, how about playing the town that houses and caters to the hero's needs?
+_Note: The source code is floss, but **the assets are not floss**._
+
+<!-- Images -->
+<p float="left">
+  <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221020/ss_054282314ddd14d0bcbffde81d76b8fc1d7a3c40.1920x1080.jpg?t=1776605296" width="32%" />
+  <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221020/ss_453bd798157a1c755bab010ce2a0b36fc297a7f7.1920x1080.jpg?t=1776605296" width="32%" />
+  <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221020/ss_4b60a9040720ddfb82a23129870361d3e6b456e9.1920x1080.jpg?t=1776605296" width="32%" />
+</p>
+
+
 ## Trigger Time
 <!-- Supported Operating Systems -->
 ![Static Badge](https://img.shields.io/badge/Windows-2f81f7?style=for-the-badge&logo=windows10&logoColor=white)
